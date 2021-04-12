@@ -1,7 +1,7 @@
-/*	Author: cmira039
- *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: Lab #  Exercise #
+/*	Author: Carlos Miranda cmira039@ucr.edu
+ *  Partner(s) Name: n/a
+ *	Lab Section: 23
+ *	Assignment: Lab #2  Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
